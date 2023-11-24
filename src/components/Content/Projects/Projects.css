@@ -1,3 +1,12 @@
+@media screen and (min-width: 426px) {
+    .featProject {
+        display: flex;
+    justify-content: space-between;
+    gap: 30px;
+    }
+}
+
+
 .projects-container {
     margin-top: 100px;
 }
@@ -10,10 +19,6 @@
 /* FEATURED PROJECT CARDS */
 
 .featProject {
-    width: 100%;
-    display: flex;
-    justify-content: space-between;
-    gap: 30px;
     margin-bottom: 50px;
     padding: 20px;
     border-radius: 20px;
