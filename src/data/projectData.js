@@ -178,35 +178,3 @@ export const projectData = [
 ];
 
 
-
-
-
-export const featuredProjects = [
-    {
-        name: "Vote to Play",
-        description: "Can't decide what to play tonight? I got you! After inputting an initial list of games, everyone gets to drag and drop the games in their order of preference. At the end it will calculate which game you should play. ",
-        tags: ["Redux", "React", "React-Bootstrap", "DnD Kit"],
-        linkLive: "https://vote-to-play.netlify.app/",
-        linkGithub: "https://github.com/Patchalv/vote-game-app_v4",
-        year: "2023",
-        image: "../images/featuredProjects/vote-to-play.jpg"        
-    },
-    {
-        name: "Jammming Spotify Playlist Creator",
-        description: "The Jammming web app leverages the Spotify API to allow usezs to search for songs and create playlists, which cna then be saved into their personal Spotify account.",
-        tags: ["React", "Spotify API", "Netlify"],
-        linkLive: "https://jammming-v3.netlify.app/",
-        linkGithub: "https://github.com/Patchalv/Jammming",
-        year: "2023",
-        image: "../images/featuredProjects/jammming.jpg"        
-    },
-    {
-        name: "7 Wonders Score Card",
-        description: "Web app that partners with the 7 Wonders board game. The app allows players to select the number of players and extensions they wish to play with and then provides the adequate scoring app for that version of the game.",
-        tags: ["React", "Redux", "JavaScript"],
-        linkLive: "https://7wonders-scorecard.netlify.app/",
-        linkGithub: "https://github.com/Patchalv/7-wonders_scorecard_v3",
-        year: "2023",
-        image: "../images/featuredProjects/7-wonders.jpg"        
-    }
-];
