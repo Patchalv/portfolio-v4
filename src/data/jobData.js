@@ -2,8 +2,7 @@ export const jobData = [
     {
         id: 1,
         title: 'Freelance Web Developer',
-        company: 'PatrickAlvarez.com',
-        url: 'https://patrickalvarez.com//',
+        url: 'https://patrickalvarezwebdesign.com/',
         dates: '2016 — PRESENT',
         description: 'Website design, development and maintenance for coaches and other solo entrepreneurs. Helped coaches get online by planning, designing & developing sales-optimized websites.',
         achievements: [
@@ -24,12 +23,13 @@ export const jobData = [
         achievements: [
             'Completed the Front-end engineering course in November 2023.'
         ],
+        tags: ['React', 'Node.js', 'PostgreSQL', 'Express']  
     },
     {
         id: 3,
         title: 'Web Developer',
         company: 'ROCCO GROUP',
-        url: 'https://www.tecs.es/tecs/',
+        url: 'https://rocco.group/',
         dates: '2019 — 2020',
         description: 'ROCCO group is a consultancy business for the Telecoms sector, working with some of the largest companies such as Vodafone, O2, T-Mobile and their vendors.',
         achievements: [
@@ -58,7 +58,7 @@ export const jobData = [
         id: 5,
         title: 'BSc Engineering Science',
         company: 'UCD',
-        url: '',
+        url: 'https://www.ucd.ie/',
         dates: '2008 — 2012',
         description: 'Completed a Bacherlor of Science in Engineering Science by completing the Structural Engineering with Architecture course in UCD (University College of Dublin). During my time in UCD I was also heavily involved university life as I was the UCD Engineering Society president and Student´s Union Engineering & Architecture Programme Officer - representing the Student´s interests on a number of boards and committees on Student, Faculty and University levels.',
         achievements: [],

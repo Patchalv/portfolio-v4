@@ -1,9 +1,9 @@
 function About() {
   return (
     <section data-section id="about" className='about-container sunHover'>
-        <p>Back in 2016, whilst managing in an educational company, I decided to try my hand at building a website and tumbled head first into the rabbit hole of coding and web development. Fast-forward to today, and since then I’ve been lucky enough to be able to shift career to become a <span className="bold">Front-end engineer</span>.</p>
+        <p><span className="bold">Hi <i id="hand" className="fa-regular fa-hand"></i> My name is Patrick</span> and I´m an Irish front end engineer (and aspiring full-stack) based in sunny Spain.</p>
 
-        <p>For over 10 years I worked as a director in an educational company whilst also running my <a href="">freelance web development business</a> on the side. In August 2023 I left that role so I could make the shift fully over to being a <a className="bold">full-stack engineer</a>.</p>
+        <p>For the past 7 years I´ve run a <a href="https://patrickalvarezwebdesign.com/">freelance web design company</a> whilst also <span className="bold">managing teams of up to a 150 people</span> in an educational company. A few months ago I finally chose to take the plunge and shift into focusing 100% on my real passion - <span className="bold">coding awesome stuff!</span></p>
 
         <p>When I´m not at the computer, I´m usually hanging out with my wife and pets, playing boardgames with friends, or enjoying <a id="sun">
           <span className="rouge">t</span>

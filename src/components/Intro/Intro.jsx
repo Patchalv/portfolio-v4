@@ -36,7 +36,7 @@ function Intro() {
         <div className='sticky-wrapper'>
             <h1>Patrick Alvarez Eades</h1>
             <h2>Front-End Engineer</h2>
-            <p>I build exceptional and accessible digital <br />experiences for the web.</p> 
+            <p>I build beautiful and user-friendly <br />experiences for the web.</p> 
 
 
             <nav className='navbar'>

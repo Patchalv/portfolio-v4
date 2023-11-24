@@ -16,3 +16,21 @@
         padding-left: 20px;
     }
 }
+
+@keyframes wiggle {
+    /*0% { transform: rotate(-2deg); }
+    100% { transform: rotate(2deg); }*/
+    0% { transform: rotate(0deg); }
+    80% { transform: rotate(0deg); }
+    85% { transform: rotate(10deg); }
+    95% { transform: rotate(-10deg); }
+   100% { transform: rotate(0deg); }
+ 
+}
+
+#hand {
+    display: inline-block;
+    animation: wiggle 2.5s infinite alternate;
+    transform-origin: center 60%;
+    margin-right: 10px;  
+}

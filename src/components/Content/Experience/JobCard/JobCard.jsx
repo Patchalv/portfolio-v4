@@ -9,8 +9,11 @@ function JobCard({job, hover}) {
             <span className="job-dates">{job.dates}</span>
         </div>
         <div className='job-details-wrapper'>
-            <h3>{job.title} - {job.company}</h3>
+        <a href={job.url}><h3>{job.title} {job.company ? '-' : null} {job.company} <i className="fa-solid fa-arrow-up rotated"></i></h3></a>
             <span className="job-description">{job.description}</span>
+            <ul className="achievements">
+                {job.achievements ? job.achievements.map((achievement, idx) => <li key={idx}>{achievement}</li>) : null}
+            </ul>
             <ul className='tags'>
                     {tags ? tags.map((tag, idx) => <li key={idx}>{tag}</li>) : null}
             </ul>

@@ -1,5 +1,29 @@
 export const projectData = [
     {
+        name: "Vote to Play",
+        description: "App to let you and your friends vote for what game to play.",
+        tags: ["Redux", "React", "React-Bootstrap", "DnD Kit"],
+        linkLive: "https://vote-to-play.netlify.app/",
+        linkGithub: "https://github.com/Patchalv/vote-game-app_v4",
+        year: "2023"
+    },
+    {
+        name: "Jammming",
+        description: "Web app that allows users to search for songs and create playlists using the Spotify API.",
+        tags: ["React", "Spotify API", "Netlify"],
+        linkLive: "https://jammming-v3.netlify.app/",
+        linkGithub: "https://github.com/Patchalv/Jammming",
+        year: "2023"
+    },
+    {
+        name: "7 Wonders Score Card",
+        description: "Web app that partners with the 7 Wonders board game to allow users score automatically",
+        tags: ["React", "Redux", "JavaScript"],
+        linkLive: "https://7wonders-scorecard.netlify.app/",
+        linkGithub: "https://github.com/Patchalv/7-wonders_scorecard_v3",
+        year: "2023"
+    },
+    {
         name: "Apopt a Pet",
         description: "Pet adoption website to practice react router.",
         tags: ["React", "React Router", "JavaScript"],
@@ -102,7 +126,15 @@ export const projectData = [
         linkLive: "https://patrickalvarez.com/",
         linkGithub: "",
         year: "2020"
-    },    
+    },  
+    {
+        name: "Colaboradores Landing",
+        description: "Mass info request landing page system for partners",
+        tags: ["E-Commerce", "PHP", "SQL"],
+        linkLive: "https://www.tecs.es/tecs/col/landing2/index.php?col=2234/",
+        linkGithub: "https://github.com/Patchalv/Colaboradores-Landing",
+        year: "2020"
+    },  
     {
         name: "InSpirente",
         description: "Custom WordPress design website for a business consultant.",
@@ -126,14 +158,6 @@ export const projectData = [
         linkLive: "https://patrickalvarez.com/work/roccou/",
         linkGithub: "",
         year: "2019"
-    },
-    {
-        name: "Colaboradores Landing",
-        description: "Mass info request landing page system for partners",
-        tags: ["E-Commerce", "PHP", "SQL"],
-        linkLive: "https://www.tecs.es/tecs/col/landing2/index.php?col=2234/",
-        linkGithub: "https://github.com/Patchalv/Colaboradores-Landing",
-        year: "2020"
     },
     {
         name: "Translation Pros",
@@ -160,7 +184,7 @@ export const projectData = [
 export const featuredProjects = [
     {
         name: "Vote to Play",
-        description: "App to vote for what game to play.",
+        description: "Can't decide what to play tonight? I got you! After inputting an initial list of games, everyone gets to drag and drop the games in their order of preference. At the end it will calculate which game you should play. ",
         tags: ["Redux", "React", "React-Bootstrap", "DnD Kit"],
         linkLive: "https://vote-to-play.netlify.app/",
         linkGithub: "https://github.com/Patchalv/vote-game-app_v4",
@@ -168,8 +192,8 @@ export const featuredProjects = [
         image: "../images/featuredProjects/vote-to-play.jpg"        
     },
     {
-        name: "Jamming Spotify Playlist Creator",
-        description: "Web app that allows users to search for songs and create playlists using the Spotify API.",
+        name: "Jammming Spotify Playlist Creator",
+        description: "The Jammming web app leverages the Spotify API to allow usezs to search for songs and create playlists, which cna then be saved into their personal Spotify account.",
         tags: ["React", "Spotify API", "Netlify"],
         linkLive: "https://jammming-v3.netlify.app/",
         linkGithub: "https://github.com/Patchalv/Jammming",
