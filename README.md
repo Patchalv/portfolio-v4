@@ -9,7 +9,7 @@
     The second iteration of my developer portfolio website built with <a href="https://react.dev/">React</a> and hosted with <a href="https://www.netlify.com/">Netlify</a>
     <br />
     <br />
-    <a href="#">View Live</a>
+    <a href="https://patrickalvarez.com/">View Live</a>
   </p>
 </div>
 
@@ -98,7 +98,7 @@ Don't forget to give the project a star! Thanks again!
 <!-- LICENSE -->
 ## License
 
-Distributed under the MIT License. See `LICENSE.txt` for more information.
+Distributed under the MIT License. See `LICENSE.md` for more information.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -109,7 +109,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 Patrick Alvarez Eades - p.alvarezeades@gmail.com
 
-Project Link: [https://github.com/Patchalv/vote-game-app_v4](https://github.com/Patchalv/vote-game-app_v4)
+Project Link: [https://github.com/Patchalv/portfolio-v4](https://github.com/Patchalv/portfolio-v4)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -127,16 +127,16 @@ Whilst I did code the entire project from scratch, the design I have to very muc
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/Patchalv/vote-game-app_v4.svg?style=for-the-badge
+[contributors-shield]: https://img.shields.io/github/contributors/Patchalv/portfolio-v4.svg?style=for-the-badge
 [contributors-url]: https://github.com/Patchalv/vote-game-app_v4/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/Patchalv/vote-game-app_v4.svg?style=for-the-badge
+[forks-shield]: https://img.shields.io/github/forks/Patchalv/portfolio-v4.svg?style=for-the-badge
 [forks-url]: https://github.com/Patchalv/vote-game-app_v4/network/members
-[stars-shield]: https://img.shields.io/github/stars/Patchalv/vote-game-app_v4.svg?style=for-the-badge
+[stars-shield]: https://img.shields.io/github/stars/Patchalv/portfolio-v4.svg?style=for-the-badge
 [stars-url]: https://github.com/Patchalv/vote-game-app_v4/stargazers
-[issues-shield]: https://img.shields.io/github/issues/Patchalv/vote-game-app_v4.svg?style=for-the-badge
+[issues-shield]: https://img.shields.io/github/issues/Patchalv/portfolio-v4.svg?style=for-the-badge
 [issues-url]: https://github.com/Patchalv/vote-game-app_v4/issues
-[license-shield]: https://img.shields.io/github/license/Patchalv/vote-game-app_v4?label=license&style=for-the-badge
-[license-url]: https://github.com/Patchalv/vote-game-app_v4/blob/master/LICENSE.md
+[license-shield]: https://img.shields.io/github/license/Patchalv/portfolio-v4?label=license&style=for-the-badge
+[license-url]: https://github.com/Patchalv/portfolio-v4/blob/master/LICENSE.md
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/patrickalvarezeades/
 [product-screenshot]: ./src/images/screenshot.png
