@@ -1,6 +1,6 @@
 import Archive from "./pages/Archive/Archive";
 import ErrorPage from "./pages/ErrorPage";
-import Home from "./pages/home";
+import Home from "./pages/Home";
 import Layout from "./pages/Layout";
 
 import { Routes, Route } from "react-router-dom";

@@ -3,7 +3,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <h3 align="center">Portfolio Website v2</h3>
+  <h3 align="center">Portfolio Website v4</h3>
 
   <p align="center">
     The second iteration of my developer portfolio website built with <a href="https://react.dev/">React</a> and hosted with <a href="https://www.netlify.com/">Netlify</a>
