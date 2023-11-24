@@ -51,6 +51,8 @@
   -moz-osx-font-smoothing: grayscale;
   scroll-behavior: smooth;
   background-color: var(--navy);
+  overflow-x: hidden;
+
 }
 
 @supports (font-variation-settings: normal) {
