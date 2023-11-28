@@ -30,7 +30,7 @@ function Experience() {
             <JobCard key={job.id} job={job} hover={jobHover}/> 
         ))}
 
-        <a className='resume-link' href='https://patrickalvarez.com/patrick-alvarez_CV.pdf'>View Full Resume </a><i className="fa-solid fa-arrow-right"></i>
+        <a className='resume-link' href='https://patrickalvarez.com/Patrick-Alvarez-CV.pdf'>View Full Resume </a><i className="fa-solid fa-arrow-right"></i>
 
     </section>
   )
