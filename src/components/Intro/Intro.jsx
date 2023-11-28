@@ -36,7 +36,7 @@ function Intro() {
         <div className='sticky-wrapper'>
             <h1>Patrick Alvarez Eades</h1>
             <h2>Front-End Engineer</h2>
-            <p>I build beautiful and user-friendly <br />experiences for the web.</p> 
+            <p>Front-end engineer with 6+ years of experience designing and building responsive web design and mobile apps.</p> 
 
 
             <nav className='navbar'>
@@ -58,7 +58,7 @@ function Intro() {
                     <li data-toggle="tooltip" title="Github"><a href="https://github.com/Patchalv" className="fa-brands fa-github" ></a></li>
                     <li><a href="https://www.linkedin.com/in/patrickalvarezeades" className="fa-brands fa-linkedin" title="LinkedIn" data-toggle="tooltip" data-placement="top"></a></li>
                     <li><a href="mailto:p.alvarezeades@gmail.com" className="fa-solid fa-envelope" title="Email" data-toggle="tooltip" data-placement="top"></a></li>
-                    <li><a href="https://patrickalvarez.com/" className="fa-solid fa-earth-americas" title="Freelance Business" data-toggle="tooltip" data-placement="top"></a></li>
+                    <li><a href="https://patrickalvarezwebdesign.com/" className="fa-solid fa-earth-americas" title="Freelance Business" data-toggle="tooltip" data-placement="top"></a></li>
                 </ul>
             </div>
         </div>
