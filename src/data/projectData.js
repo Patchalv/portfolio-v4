@@ -1,5 +1,29 @@
 export const projectData = [
     {
+        name: "Pokemon API",
+        description: "Catalogue of the original 151 pokemon fetched using the poke-api",
+        tags: ["React", "Material-UI", "PokeApi"],
+        linkLive: "https://vote-to-play.netlify.app/",
+        linkGithub: "https://patchalv.github.io/pokemon-api/",
+        year: "2024"
+    },
+    {
+        name: "Restaurant Finder",
+        description: "Fullstack PERN app to list restaurants and their user ratings",
+        tags: ["PostgresSQL", "Express", "React", "Nodejs"],
+        linkLive: "https://restaurant-finder-frontend-tan.vercel.app/",
+        linkGithub: "https://github.com/Patchalv/restaurant-finder",
+        year: "2024"
+    },
+    {
+        name: "Ecomm Restful API Backend",
+        description: "Backed for an e-commerce website that uses PostgreSQL, Express, and Node.js.",
+        tags: ["PostgresSQL", "Express", "Nodejs"],
+        linkLive: "",
+        linkGithub: "https://github.com/Patchalv/Ecomm-Restful-API-backend",
+        year: "2024"
+    },
+    {
         name: "Vote to Play",
         description: "App to let you and your friends vote for what game to play.",
         tags: ["Redux", "React", "React-Bootstrap", "DnD Kit"],
