@@ -26,9 +26,9 @@ export const projectData = [
     {
         name: "Vote to Play",
         description: "App to let you and your friends vote for what game to play.",
-        tags: ["Redux", "React", "React-Bootstrap", "DnD Kit"],
-        linkLive: "https://vote-to-play.netlify.app/",
-        linkGithub: "https://github.com/Patchalv/vote-game-app_v4",
+        tags: ["Next Js", "Redux", "React", "Material-UI", "DnD Kit"],
+        linkLive: "https://vote-game-five.vercel.app/",
+        linkGithub: "https://github.com/Patchalv/vote-game-app-v6",
         year: "2023"
     },
     {
