@@ -30,7 +30,12 @@
 
 #hand {
     display: inline-block;
-    animation: wiggle 2.5s infinite alternate;
+    animation: wiggle 1.5s infinite alternate;
     transform-origin: center 60%;
     margin-right: 10px;  
+}
+
+#hand:hover {
+    font-size: 24px;
+    transition: ease-in-out 0.3s;
 }

@@ -3,9 +3,6 @@
   --slate: rgb(148, 163, 184);
   --white: #e6f1ff;
   --green: #64ffda;
-
-
-
   --dark-navy: #020c1b;
   --light-navy: #112240;
   --lightest-navy: #233554;
@@ -61,15 +58,11 @@
 
 
 /*BIGGER THAN PHONE*/
-
 /* UP TO PHONE */
 @media screen and (max-width: 425px) {
   .container {
     margin: 80px 20px;
   }
-  
-
-
 }
 
 /* TABLET */
@@ -77,9 +70,7 @@
   .container {
     padding: 80px 48px;
   }
-  
 }
-
 
 /* DESKTOP */
 @media screen and (min-width: 769px) {
@@ -97,11 +88,6 @@
     padding: 96px 48px;
   }
 }
-
-
-
-
-
 /* APP CONTAINER */
 
 body {
@@ -122,9 +108,6 @@ body {
   color: var(--navy);
 }
 
-
-
-
 /* TEXT STYLES */
 ::selection {
   background: var(--green);
@@ -133,7 +116,6 @@ body {
 
 h1, h2, h3, h4, h5, h6 {
   color: var(--white);
-
 }
 
 h1 {
@@ -156,10 +138,6 @@ li a {
   color: var(--white);
   font-weight: 500;
 }
-
-
-
-
 
 /* SPECIAL LINK */
 .rainbow-text {
@@ -326,9 +304,7 @@ a:hover .violet{
 
 .sunHover {
   cursor: url(https://pawebdevdocs.s3.eu-west-3.amazonaws.com/sun_icon.png?response-content-disposition=inline&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEPD%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCWV1LXdlc3QtMyJHMEUCIH8evpF1yMBChQ5DX19hoyjdDaWChqfnKFVHXylQdvFGAiEA8UoV0Ruht8Q%2Fm9pIvqN2M%2Fa0vl6Zg7DQgyRUxygtsGQq5AIISRADGgw1MTc5MDgxNjU0MDkiDIkT69vcmeBFZzDVjyrBAjTxFOss75X2dqrbaJEtUBvDGU%2FCc5GySFM54iv6d3bHk1uDN7QwvJyFYJ8FB00RVRpDKe6llbVbFSZK81t%2FXPinJkABvmD4O4o21eiieCg2uQBIm218pJyJHm3KfoW6XegY22f2tHVpfxx4DSvN9dPiSu2oKWIg66Tp1F6aFxRUZ%2B6MQIx0tUFASbi1pX2XNa3IJbAAbQBWBCEBROlM8obx4%2F18SytwTtdJqei0YAt4Ltx2zG9bfzwLjp55qwtEZaooi4fiU9KtSnp4Ocdc7%2FLEsVc%2BVInrBiTheONWBaRVR%2BpPu9pKTNUICaiP%2FrBlBdw%2Fqt3YhCh%2FShNPsL3ECcjyDuvU4wNGjs744a21eUNUDuf7nIJoguPPrPiA02hY%2BbPC2C6exTlPyg2jOw%2FqffwvZkf19vsNfPQyefH14oCIqTDG6%2F2qBjqzAj%2BrYKfM43kzZ5uWh%2FAaSKKFRCpReVqYPlKydh8hCJSP8FCUi1pDCFEtHIbRUS%2Fpa0hLX86MxPZlWTTbRlGoPVIaf%2BD%2Fqp0W0JTKIdsJIJBX0T1o4IP1bqg99MUr5meEE84BDZL%2FeKhPFFUz3ISby22mtZ6KkM6Jp0umiK0733v%2BuCMujZyUn7QYYRk%2BWTSKeTyDeAoJlYGRWzjpfAZVBPJPTDfckuF512j8I3LyVHSdqU63PuPAjgVYvfIHzVoXntTTZNOi8PSXWGvGDPK88mhPOv9CCVO39izxPkVTAEnVLbdRuwvCydKYFZ%2BgRIgXjFhmSH%2BwVKZDSHYe4V2UafdflmIKkOh9kd%2FmkEP61cM4C6WLAuhxeU9WM4xaYQKVGspBzOIc77d%2BWaD%2FN3v%2B9GdK4yk%3D&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20231123T160517Z&X-Amz-SignedHeaders=host&X-Amz-Expires=300&X-Amz-Credential=ASIAXRFN3OMQU23VJMVY%2F20231123%2Feu-west-3%2Fs3%2Faws4_request&X-Amz-Signature=d171e6f7dbc4d5d12be6c57716ed3709b3c178d1de334298d14cca72882003cf), auto;
-
 }
-
 
 #sun {
   cursor: url(/src/images/sun_icon.png), pointer;

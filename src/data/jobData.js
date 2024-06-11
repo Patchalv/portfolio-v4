@@ -1,6 +1,22 @@
 export const jobData = [
     {
         id: 1,
+        title: 'Software Engineering Intern',
+        url: 'https://www.novatalent.com/',
+        dates: '2024 — PRESENT',
+        description: 'Nova is a fast-growing tech startup in the headhunting industry with a global community of high-level talent with over 20,000 users living in 95 countries around the world.',
+        achievements: [
+            'Developing new features for membership frontend using React, NextJS, and Tailwind.',
+            'Contributed to the launch of Threads and Member discovery features which led +38% increase in member engagement.',
+            'Implemented membership application improvements which increased paid membership by +17%.',
+            'Supporting Backend tasks using NodeJS, Express, Knex, SES, SQS, and Jest',
+            'Management of relational databases (MySQL).',
+            'Bug management (using an SLA system).',
+        ],
+        tags: ['React', 'NextJS', 'Tailwind', 'NodeJS', 'Express', 'MySQL']       
+    },
+    {
+        id: 2,
         title: 'Freelance Web Developer',
         url: 'https://patrickalvarezwebdesign.com/',
         dates: '2016 — PRESENT',
@@ -14,10 +30,10 @@ export const jobData = [
         tags: ['Design', 'PHP', 'WordPress', 'Maintenance']       
     },
     {
-        id: 2,
+        id: 3,
         title: 'Full-Stack Engineering',
         company: 'Codecademy',
-        url: 'https://www.codecademy.com/',
+        url: 'https://www.codecademy.com/profiles/patchalv/certificates/ffd0f42cce1a44e9a0108b365047a0a6',
         dates: '2022 — 2023',
         description: '420+ hours focused on various practices and methodologies including object oriented programming, test-driven development, pair-programming, algorithms, data structures, and more.  Coursework includes fundamentals of APIs using Express.js, Back-End and Feature Testing, SQL queries and relational databases, PostgreSQL, Swagger and OpenAPI | DevOps, web security and prevention techniques, and creating a PERN (Postgres, Express, React, Node) full-stack e-commerce experience',
         achievements: [
@@ -26,7 +42,7 @@ export const jobData = [
         tags: ['React', 'Node.js', 'PostgreSQL', 'Express']  
     },
     {
-        id: 3,
+        id: 4,
         title: 'Web Developer',
         company: 'ROCCO GROUP',
         url: 'https://rocco.group/',
@@ -40,7 +56,7 @@ export const jobData = [
         tags: ['Design', 'PHP', 'WordPress', 'Maintenance']       
     },
     {
-        id: 4,
+        id: 5,
         title: 'Educational Director',
         company: 'TECS',
         url: 'https://www.tecs.es/tecs/',
@@ -55,7 +71,7 @@ export const jobData = [
         tags: ['Leadership', 'Recruitment', 'WordPress']       
     },
     {
-        id: 5,
+        id: 6,
         title: 'BSc Engineering Science',
         company: 'UCD',
         url: 'https://www.ucd.ie/',

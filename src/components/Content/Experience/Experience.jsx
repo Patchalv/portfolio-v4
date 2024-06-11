@@ -25,13 +25,10 @@ function Experience() {
         onMouseLeave={onMouseLeave}
     >
         <h2>Experience</h2>
-        
         {jobData.map((job) => (
             <JobCard key={job.id} job={job} hover={jobHover}/> 
         ))}
-
         <a className='resume-link' href='https://patrickalvarez.com/Patrick-Alvarez-CV.pdf'>View Full Resume </a><i className="fa-solid fa-arrow-right"></i>
-
     </section>
   )
 }

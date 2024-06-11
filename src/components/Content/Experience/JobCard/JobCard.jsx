@@ -9,7 +9,7 @@ function JobCard({job, hover}) {
             <span className="job-dates">{job.dates}</span>
         </div>
         <div className='job-details-wrapper'>
-        <a href={job.url}><h3>{job.title} {job.company ? '-' : null} {job.company} <i className="fa-solid fa-arrow-up rotated"></i></h3></a>
+        <a href={job.url} target="_blank" rel="noreferrer"><h3>{job.title} {job.company ? '-' : null} {job.company} <i className="fa-solid fa-arrow-up rotated"></i></h3></a>
             <span className="job-description">{job.description}</span>
             <ul className="achievements">
                 {job.achievements ? job.achievements.map((achievement, idx) => <li key={idx}>{achievement}</li>) : null}

@@ -35,8 +35,8 @@ function Intro() {
     <div className="intro-container">
         <div className='sticky-wrapper'>
             <h1>Patrick Alvarez Eades</h1>
-            <h2>Front-End Engineer</h2>
-            <p>Front-end engineer with 6+ years of experience designing and building responsive web design and mobile apps.</p> 
+            <h2>Frontend Software Engineer</h2>
+            <p>Software Engineer with 6+ years of experience designing and building responsive web design and mobile apps.</p> 
 
 
             <nav className='navbar'>
@@ -55,10 +55,9 @@ function Intro() {
 
             <div className="social-wrapper">
                 <ul className='socials'>
-                    <li data-toggle="tooltip" title="Github"><a href="https://github.com/Patchalv" className="fa-brands fa-github" ></a></li>
-                    <li><a href="https://www.linkedin.com/in/patrickalvarezeades" className="fa-brands fa-linkedin" title="LinkedIn" data-toggle="tooltip" data-placement="top"></a></li>
-                    <li><a href="mailto:p.alvarezeades@gmail.com" className="fa-solid fa-envelope" title="Email" data-toggle="tooltip" data-placement="top"></a></li>
-                    <li><a href="https://patrickalvarezwebdesign.com/" className="fa-solid fa-earth-americas" title="Freelance Business" data-toggle="tooltip" data-placement="top"></a></li>
+                    <li data-toggle="tooltip" title="Github"><a href="https://github.com/Patchalv" className="fa-brands fa-github" target="_blank" rel="noreferrer"></a></li>
+                    <li><a href="https://www.linkedin.com/in/patrickalvarezeades" className="fa-brands fa-linkedin" title="LinkedIn" data-toggle="tooltip" data-placement="top" target="_blank" rel="noreferrer"></a></li>
+                    <li><a href="mailto:p.alvarezeades@gmail.com" className="fa-solid fa-envelope" title="Email" data-toggle="tooltip" data-placement="top" target="_blank" rel="noreferrer"></a></li>
                 </ul>
             </div>
         </div>
