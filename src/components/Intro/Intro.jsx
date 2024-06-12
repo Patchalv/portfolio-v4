@@ -1,3 +1,4 @@
+import config from '../../data/config';
 import './Intro.css';
 import { useState, useRef, useEffect } from 'react';
 
@@ -55,9 +56,9 @@ function Intro() {
 
             <div className="social-wrapper">
                 <ul className='socials'>
-                    <li data-toggle="tooltip" title="Github"><a href="https://github.com/Patchalv" className="fa-brands fa-github" target="_blank" rel="noreferrer"></a></li>
-                    <li><a href="https://www.linkedin.com/in/patrickalvarezeades" className="fa-brands fa-linkedin" title="LinkedIn" data-toggle="tooltip" data-placement="top" target="_blank" rel="noreferrer"></a></li>
-                    <li><a href="mailto:p.alvarezeades@gmail.com" className="fa-solid fa-envelope" title="Email" data-toggle="tooltip" data-placement="top" target="_blank" rel="noreferrer"></a></li>
+                    <li data-toggle="tooltip" title="Github"><a href={config.GITHUB_URL} className="fa-brands fa-github" target="_blank" rel="noreferrer"></a></li>
+                    <li><a href={config.LINKEDIN_URL} className="fa-brands fa-linkedin" title="LinkedIn" data-toggle="tooltip" data-placement="top" target="_blank" rel="noreferrer"></a></li>
+                    <li><a href={config.EMAIL_URL} className="fa-solid fa-envelope" title="Email" data-toggle="tooltip" data-placement="top" target="_blank" rel="noreferrer"></a></li>
                 </ul>
             </div>
         </div>
