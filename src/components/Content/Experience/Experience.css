@@ -7,10 +7,6 @@
     
 }
 
-
-
-
-
 .experience-container {
     margin-top: 100px;
 }
@@ -18,8 +14,6 @@
 .experience-container h2 {
     padding-left: 20px;
 }
-
-
 
 /* EXPERIENCE CARDS */
 
@@ -66,9 +60,8 @@
     padding-top: 0px;
 }
 
-
 .job-description {
-    font-size: 14px;    
+    font-size: 14px;
     color: var(--light-slate);
 }
 
@@ -95,8 +88,6 @@
     bottom: 2px;
 
 }
-
-
 
 .tags {
     list-style: none;

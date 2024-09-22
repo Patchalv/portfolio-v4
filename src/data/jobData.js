@@ -6,12 +6,12 @@ export const jobData = [
         dates: '2024 — PRESENT',
         description: 'Nova is a fast-growing tech startup in the headhunting industry with a global community of high-level talent with over 20,000 users living in 95 countries around the world.',
         achievements: [
-            'Developing new features for membership frontend using React, TypeScript, and NextJS.',
-            'Contributed to the launch of Threads and Member discovery features which led +38% increase in member engagement.',
+            'Developed new features for membership frontend using React, TypeScript, NextJS, and Tailwind.',
+            'Contributed to the launch of Threads and Member discovery increasing member engagement by 38%.',
             'Implemented membership application improvements which increased paid membership by +17%.',
             'Supporting Backend tasks using NodeJS, Express, Knex, SES, SQS, and Jest',
-            'Management of relational databases (MySQL).',
             'Bug management (using an SLA system).',
+            'Global Staff Member of the Month for August 2024'
         ],
         tags: ['React', 'TypeScript', 'NextJS', 'Tailwind CSS', 'NodeJS', 'Express', 'MySQL']       
     },

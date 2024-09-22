@@ -1,13 +1,10 @@
 import { Link } from "react-router-dom";
-import './Archive.css';
 import { projectData } from "../../data/projectData";
+import './Archive.css';
 
 
 
 function Archive() {
-  {projectData.map((project) => console.log(`${project.linkGithub}`))}
-
-
   return (
     <div className="archive dark">
 
