@@ -1,7 +1,7 @@
 export const jobData = [
     {
         id: 1,
-        title: 'Software Engineering Intern',
+        title: 'Software Engineer',
         url: 'https://www.novatalent.com/',
         dates: '2024 — PRESENT',
         description: 'Nova is a fast-growing tech startup in the headhunting industry with a global community of high-level talent with over 20,000 users living in 95 countries around the world.',
